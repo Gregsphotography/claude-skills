@@ -1,6 +1,6 @@
 This is a specially adapted version of my **structured premortem** based on Gary Klein's research.
 
-Simply install the skill file in Claude and ask for a premortem. 
+Simply install the premortem.skill file in Claude and ask for a premortem. 
 
 Otherwise, it's automatic based on the description. When someone describes a concrete plan with real downside (a launch, hire, pricing change, strategic pivot), Claude recognises it fits the premortem skill's scope and loads it.
 So they could say:
